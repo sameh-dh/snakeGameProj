@@ -33,13 +33,13 @@ namespace SnakeGameProj
         }
 
         //Event 
-        private  void Window_Loaded(object sender , RoutedEventArgs e)
+        private void Window_Loaded(object sender , RoutedEventArgs e)
         {
             Draw();
 
         }
 
-        //Draw mthod
+        //Draw Method
         private void Draw()
         {
             DrawGrid();
@@ -49,6 +49,7 @@ namespace SnakeGameProj
         {
             
         }
+       //SetupGrid Method
         private Image[,] SetupGrid()
         {
             Image[,] images = new Image[rows, cols];
@@ -63,11 +64,13 @@ namespace SnakeGameProj
                         Source = Images.Empty
                     };
                     images[r, c] = image;
-                GameGrid.Children.Add(image);
+                GameGrid.Children.Add(images[r, c]);
 
                 }
             }
-            Console.WriteLine(images[0, 1]) ;
+            //to test it 
+            images[1, 0].Source = Images.Body;
+            images[3, 4].Source = Images.Body;
             return images;
         }
 
