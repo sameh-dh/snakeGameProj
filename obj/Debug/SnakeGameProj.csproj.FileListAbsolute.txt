@@ -1,0 +1,17 @@
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\bin\Debug\SnakeGameProj.exe.config
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\bin\Debug\SnakeGameProj.exe
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\bin\Debug\SnakeGameProj.pdb
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\SnakeGameProj.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\SnakeGameProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\MainWindow.g.cs
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\App.g.cs
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\SnakeGameProj_MarkupCompile.cache
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\SnakeGameProj_MarkupCompile.lref
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\MainWindow.baml
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\SnakeGameProj.g.resources
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\SnakeGameProj.Properties.Resources.resources
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\SnakeGameProj.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\SnakeGameProj.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\SnakeGameProj.exe
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\SnakeGameProj.pdb
+C:\Users\MSI\Desktop\bureau\ButterflyDev\Self projects\c sharp\SelfProject\SnakeGameProj\SnakeGameProj\obj\Debug\App.baml
