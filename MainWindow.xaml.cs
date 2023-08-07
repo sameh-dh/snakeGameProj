@@ -18,9 +18,16 @@ namespace SnakeGameProj
     /// <summary>
     /// Logique d'interaction pour MainWindow.xaml
     /// </summary>
+
     public partial class MainWindow : Window
     {
-
+        private readonly Dictionary<GridValue, ImageSource> gridValToImag =
+            new Dictionary<GridValue, ImageSource>()
+        {
+            {GridValue.Empty, Images.Empty },
+            {GridValue.Snake, Images.Body },
+            {GridValue.Food, Images.Food }
+        };
         private readonly int rows = 15, cols = 15;
         private readonly Image[,] gridImages;
      
